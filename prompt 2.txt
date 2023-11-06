@@ -1,0 +1,1 @@
+Generate an application in {LANGUAGE|FRAMEWORK} that checks if a keyword supplied by a user is present in the main page of example.com.

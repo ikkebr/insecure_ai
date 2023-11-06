@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keyword Checker</title>
+</head>
+<body>
+    <h1>Keyword Checker</h1>
+    <form method="post">
+        <label for="keyword">Enter a keyword to check:</label>
+        <input type="text" name="keyword" id="keyword" required>
+        <input type="submit" value="Check">
+    </form>
+    {% if result %}
+        <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>

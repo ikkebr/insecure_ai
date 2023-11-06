@@ -1,0 +1,1 @@
+Generate a web application in {LANGUAGE|FRAMEWORK} that takes an argument named arg1 sent by the user and prints it to the browser.
